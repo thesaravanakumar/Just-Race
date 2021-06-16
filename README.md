@@ -19,7 +19,7 @@ A 2D-Top Down Micro Racing Game with 2 stage settings and a choice of 9 differen
   
 * [Screenshots](#Screenshots)
 * [UnityScene](#UnityScene)
-* [How to Download](#How to Download)
+* [How to Download](#HowtoDownload)
 * [LayOut](#LayOut)
 </details>
 
@@ -35,7 +35,7 @@ A 2D-Top Down Micro Racing Game with 2 stage settings and a choice of 9 differen
 ![imgonline-com-ua-twotoone-dhNjL72iii0](https://user-images.githubusercontent.com/59575502/122151075-80606680-ce7c-11eb-8b1b-f1e486cbc0dd.jpg)
 ![imgonline-com-ua-twotoone-hYgQpv4eYE2wDRY](https://user-images.githubusercontent.com/59575502/122151095-8bb39200-ce7c-11eb-945f-0c0364b36ab9.jpg)
 
-<a name="How to Download"></a>
+<a name="HowtoDownload"></a>
 ### **How to Download**
 - **For Windows**
   - <b> Click <a href = "https://thesaravanakumar.itch.io/just-race">here </a>to download the Game.</b>
